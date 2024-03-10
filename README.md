@@ -1,5 +1,5 @@
 # Google Voice 购买和使用教程
-Google Voice 购买方法，GV号码新手入门使用教程
+Google Voice 购买方法，GV号码新手入门使用教程:▶ https://youtu.be/bZQSpXYtiO0
 
 ### 一、Google Voice 介绍
 Google Voice（简称GV）是google推出的电话号码，支持免费语音通话和短信服务，如果我们需要注册一些国外APP，有一个GV号码会方便很多，比如说注册电报等等。
